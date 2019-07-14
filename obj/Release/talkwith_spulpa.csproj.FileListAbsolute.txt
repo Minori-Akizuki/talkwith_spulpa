@@ -1,0 +1,16 @@
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\talkwith_spulpa.exe.config
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\talkwith_spulpa.exe
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\talkwith_spulpa.pdb
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\CsvHelper.dll
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\System.ValueTuple.dll
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\CsvHelper.xml
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\bin\Release\System.ValueTuple.xml
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.csprojAssemblyReference.cache
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.Form_Main.resources
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.Form2.resources
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.Properties.Resources.resources
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.csproj.GenerateResource.cache
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.csproj.CoreCompileInputs.cache
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.csproj.CopyComplete
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.exe
+C:\home\minori\program\form\talkwith_spulpa\talkwith_spulpa\obj\Release\talkwith_spulpa.pdb
